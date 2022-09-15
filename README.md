@@ -1,4 +1,4 @@
-# cfb-talent
+# CFB Talent Composite
 
 This Github visualizes college football team talent across all 64 Power 5 programs. 
 

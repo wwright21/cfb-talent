@@ -1,5 +1,7 @@
-# CFB Talent Composite
+# CFB Efficiency vs. Talent
 
-This Github visualizes college football team talent across all 64 Power 5 programs plus Notre Dame.
+This visual plots offensive & defensive efficiency along with college football team talent in the SEC.
 
-- Data source: https://247sports.com/Season/2023-Football/CollegeTeamTalentComposite/
+- Data sources: https://247sports.com/Season/2023-Football/CollegeTeamTalentComposite/
+
+https://www.espn.com/college-football/fpi
